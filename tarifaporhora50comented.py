@@ -1,6 +1,5 @@
 horas = input('Cuantas horas trabaja su empleado por jornada?: ')                                                   # Este codigo fue realizado por Valentín Torres Porcel el día 24/7/2021 (Venticuatro de Julio de 2021)  
 tarifa  = input('Cuál es la tarifa por hora?: ')
-pregunta = input('Desea aumentar la tarifa pasada determinada cantidad de horas?: ')
 cuandoau = input('En que cantidad de horas empieza a aumentar la tarifa?: ')
 aumento = input('Cuantas veces aumenta la tarifa luego de superar esa cantidad de horas?: ')
 salario = float(horas)*float(tarifa)
