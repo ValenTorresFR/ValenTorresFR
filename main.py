@@ -1,4 +1,4 @@
-horas = input('Cuantas horas trabaja su empleado: ')                                                         # Este codigo fue realizado por Valentín Torres Porcel el día 28/8/2021 (Venticuatro de Julio de 2021)  
+horas = input('Cuantas horas trabaja su empleado: ')                                                         # Este codigo fue realizado por Valentín Torres Porcel el día 28/8/2021 (Ventiocho de Agosto de 2021)  
 tarifa  = input('Cuál es la tarifa por hora?: ')
 
 def calculo_salario(horas, tarifa):
